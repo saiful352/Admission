@@ -1,0 +1,16 @@
+C:\Users\bdsai\OneDrive\Desktop\Admission\AdmissionTest\Tasks\Task4\bin\Debug\net5.0\Task4.exe
+C:\Users\bdsai\OneDrive\Desktop\Admission\AdmissionTest\Tasks\Task4\bin\Debug\net5.0\Task4.deps.json
+C:\Users\bdsai\OneDrive\Desktop\Admission\AdmissionTest\Tasks\Task4\bin\Debug\net5.0\Task4.runtimeconfig.json
+C:\Users\bdsai\OneDrive\Desktop\Admission\AdmissionTest\Tasks\Task4\bin\Debug\net5.0\Task4.runtimeconfig.dev.json
+C:\Users\bdsai\OneDrive\Desktop\Admission\AdmissionTest\Tasks\Task4\bin\Debug\net5.0\Task4.dll
+C:\Users\bdsai\OneDrive\Desktop\Admission\AdmissionTest\Tasks\Task4\bin\Debug\net5.0\ref\Task4.dll
+C:\Users\bdsai\OneDrive\Desktop\Admission\AdmissionTest\Tasks\Task4\bin\Debug\net5.0\Task4.pdb
+C:\Users\bdsai\OneDrive\Desktop\Admission\AdmissionTest\Tasks\Task4\obj\Debug\net5.0\Task4.csproj.AssemblyReference.cache
+C:\Users\bdsai\OneDrive\Desktop\Admission\AdmissionTest\Tasks\Task4\obj\Debug\net5.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bdsai\OneDrive\Desktop\Admission\AdmissionTest\Tasks\Task4\obj\Debug\net5.0\Task4.AssemblyInfoInputs.cache
+C:\Users\bdsai\OneDrive\Desktop\Admission\AdmissionTest\Tasks\Task4\obj\Debug\net5.0\Task4.AssemblyInfo.cs
+C:\Users\bdsai\OneDrive\Desktop\Admission\AdmissionTest\Tasks\Task4\obj\Debug\net5.0\Task4.csproj.CoreCompileInputs.cache
+C:\Users\bdsai\OneDrive\Desktop\Admission\AdmissionTest\Tasks\Task4\obj\Debug\net5.0\Task4.dll
+C:\Users\bdsai\OneDrive\Desktop\Admission\AdmissionTest\Tasks\Task4\obj\Debug\net5.0\ref\Task4.dll
+C:\Users\bdsai\OneDrive\Desktop\Admission\AdmissionTest\Tasks\Task4\obj\Debug\net5.0\Task4.pdb
+C:\Users\bdsai\OneDrive\Desktop\Admission\AdmissionTest\Tasks\Task4\obj\Debug\net5.0\Task4.genruntimeconfig.cache

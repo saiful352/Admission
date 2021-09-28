@@ -1,0 +1,5 @@
+C:\Users\bdsai\OneDrive\Desktop\Admission\AdmissionTest\Tests\Task1Tests\obj\Debug\net5.0\Task1Tests.csproj.AssemblyReference.cache
+C:\Users\bdsai\OneDrive\Desktop\Admission\AdmissionTest\Tests\Task1Tests\obj\Debug\net5.0\Task1Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bdsai\OneDrive\Desktop\Admission\AdmissionTest\Tests\Task1Tests\obj\Debug\net5.0\Task1Tests.AssemblyInfoInputs.cache
+C:\Users\bdsai\OneDrive\Desktop\Admission\AdmissionTest\Tests\Task1Tests\obj\Debug\net5.0\Task1Tests.AssemblyInfo.cs
+C:\Users\bdsai\OneDrive\Desktop\Admission\AdmissionTest\Tests\Task1Tests\obj\Debug\net5.0\Task1Tests.csproj.CoreCompileInputs.cache
