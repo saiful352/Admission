@@ -23,7 +23,10 @@ namespace Task3
             // Remove NotImplementedException and write code here
             // You have to read all lines the text file in this project
             // and return all the text in that file as string array
-            throw new NotImplementedException();
+            string textFile = "C:/Users/bdsai/OneDrive/Desktop/Admission/AdmissionTest/Tasks/Task3/DemoText.txt";
+            string[] lines = File.ReadAllLines(textFile);
+
+            return lines;
         }
     }
 }
